@@ -1,4 +1,3 @@
-**This is a test**
-_This is a test_
-<Heading 1>
-**Carlos Gónzalez**
+**This is a test for Eroski HANDIA**
+_This is a test for Eroski HANDIA_
+
